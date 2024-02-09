@@ -1,6 +1,6 @@
 # Publications
 
-* 📺 Developing Revolut Card Reader: How to do it 3× faster [[Slides](https://docs.google.com/presentation/d/1CUNFeO-r0XCcN4bxmc2DcfbBEAwQBtMlH0-FPldURls)]
+* 📺 [Developing Revolut Card Reader: How to do it 3× faster](https://youtu.be/QT8_tyCP1fs) [[Slides](https://docs.google.com/presentation/d/1CUNFeO-r0XCcN4bxmc2DcfbBEAwQBtMlH0-FPldURls)]
 * 📺 [Adding metaprogramming support to Swift project](https://www.youtube.com/watch?v=FPYwhSGeWk0) [[Slides](https://docs.google.com/presentation/d/1PBwOgoeQMXFd4umqap1LpvTCeNjhgiqtWhxL2hOOyCI)]
 * 📖 [Create, push, and present any View Controller in 1 LOC using metaprogramming](https://dev.to/ivangoremykin/create-push-and-present-any-view-controller-in-1-loc-using-metaprogramming-4o8d)
 * 📖 [Adding Union to Swift with metaprogramming](https://dev.to/ivangoremykin/adding-union-to-swift-with-metaprogramming-gld)
